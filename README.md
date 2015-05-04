@@ -5,6 +5,6 @@ Clone or download the `.ini` file
 
 Open Slic3r and in the top bar click on `File` > `Load config bundle`
 
-Find and load the `.ini` file.
+Find and load the `.ini` file you cloned.
 
 That's it! Happy printing!
